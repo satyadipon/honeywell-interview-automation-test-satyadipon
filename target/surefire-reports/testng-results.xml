@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.test.tests.WebpageTest" duration-ms="10797" started-at="2021-02-06T04:42:25Z" finished-at="2021-02-06T04:42:36Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="10797" started-at="2021-02-06T04:42:25Z" finished-at="2021-02-06T04:42:36Z">
+      <class name="com.test.tests.WebpageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.test.tests.WebpageTest@4e04a765]" name="beforeSuite" is-config="true" duration-ms="307" started-at="2021-02-06T10:12:25Z" finished-at="2021-02-06T10:12:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.tests.WebpageTest@4e04a765]" name="beforeMethod" is-config="true" duration-ms="7206" started-at="2021-02-06T10:12:25Z" finished-at="2021-02-06T10:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="webpageTest()[pri:0, instance:com.test.tests.WebpageTest@4e04a765]" name="webpageTest" duration-ms="3005" started-at="2021-02-06T10:12:33Z" finished-at="2021-02-06T10:12:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webpageTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.tests.WebpageTest@4e04a765]" name="afterMethod" is-config="true" duration-ms="579" started-at="2021-02-06T10:12:36Z" finished-at="2021-02-06T10:12:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.test.tests.WebpageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.test.tests.WebpageTest -->
+</testng-results>
